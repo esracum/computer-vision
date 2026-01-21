@@ -151,4 +151,5 @@ while cv2.waitKey(1) != 27:
     cv2.imshow(win_name, frame)
 
 source.release()
+
 cv2.destroyWindow(win_name)
